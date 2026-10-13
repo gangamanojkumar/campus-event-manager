@@ -1,1 +1,2 @@
-# campus-event-manager
+#campus-event-manager
+## Usage
